@@ -13,7 +13,7 @@
 * Gulp
 * БЭМ
 
-📫 Связаться со мной: [telegram] (https://t.me/wqq_dawa), [мой сайт портфолио] (https://zuhrab.ru/)
+📫 Связаться со мной: [telegram](https://t.me/wqq_dawa), [мой сайт портфолио](https://zuhrab.ru/)
 
 <!--
 **zuhrab98/zuhrab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
