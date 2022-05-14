@@ -12,8 +12,14 @@
 * Webpack
 * Gulp
 * БЭМ
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
+![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
+![Webpack](https://img.shields.io/badge/Webpack-black?logo=Webpack&logoColor=blue&style=for-the-badge)
 
-📫 Связаться со мной: [telegram](https://t.me/wqq_dawa), [мой сайт портфолио](https://zuhrab.ru/)
+📫 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/wqq_dawa)
 
 <!--
 **zuhrab98/zuhrab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
