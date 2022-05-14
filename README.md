@@ -5,9 +5,9 @@
 **Мой технологический стэк:**
 * HTML5
 * CSS (SASS,SCSS)
-* Javascript (ES6+) ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-* React | React Hook ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
-* Redux ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+* ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
+* ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)
 * TypeScript(Основы) 
 * Webpack
 * Gulp
