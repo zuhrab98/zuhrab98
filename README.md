@@ -1,24 +1,20 @@
-# Здраствуйтвуй! <img src="https://static.tildacdn.com/tild3563-6638-4837-a464-393066313435/waving_hand_sign_102.gif" width="25px" >
+# Здраствуйтвуйте! <img src="https://static.tildacdn.com/tild3563-6638-4837-a464-393066313435/waving_hand_sign_102.gif" width="25px" >
 
-### Меня зовут Зухраб, я фронтенд-разработчик
+### Меня зовут Зухраб, я Frontend-разработчик
 
 **Мой технологический стэк:**
 * HTML5
 * CSS (SASS,SCSS)
-* Javascript (ES6+)
-* React | React Hook
-* Redux
-* TypeScript
+* Javascript (ES6+) ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+* React | React Hook ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
+* Redux ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)
+* TypeScript(Основы) 
 * Webpack
 * Gulp
 * БЭМ
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
-![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7c1996)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor)
-![Webpack](https://img.shields.io/badge/Webpack-black?logo=Webpack&logoColor=blue&style=for-the-badge)
 
-📫 Связаться со мной:
+### Связаться со мной:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/wqq_dawa)
 
 <!--
