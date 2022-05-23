@@ -1,6 +1,5 @@
-# Здраствуйтвуйте! <img src="https://static.tildacdn.com/tild3563-6638-4837-a464-393066313435/waving_hand_sign_102.gif" width="25px" >
 
-### Меня зовут Зухраб, я Frontend-разработчик
+# Frontend Developer
 #### Мой технологический стэк:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=React&logoColor=blue)
